@@ -28,15 +28,6 @@ I enjoy building backend systems, working with data, and designing scalable appl
 
 ---
 
-## 📊 GitHub Stats  
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rvsiyad&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvsiyad&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📫 Contact Me  
 
 <p>
