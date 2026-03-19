@@ -1,13 +1,6 @@
 # Hi, I'm Roble 👋  
 ### Software Engineer @ Expedia  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/roble-siyad-77a479223">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-</p>
-
----
-
 ## 👨‍💻 About Me  
 🎓 MSc Computer Science student at the University of Bath  
 💼 Software Engineer at Expedia  
@@ -54,13 +47,3 @@ I enjoy building backend systems, working with data, and designing scalable appl
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ⚡ A bit more about me  
-
-- I focus on **backend engineering and data-heavy systems**  
-- I care about **clean, maintainable code and performance**  
-- Always looking to build systems that scale and solve real problems  
-
----
