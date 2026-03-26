@@ -5,7 +5,7 @@
 🎓 MSc Computer Science student at the University of Bath  
 💼 Software Engineer at Expedia  
 🚀 Former Software Engineering Intern at Meta  
-🌍 Previously Software Developer at DEFRA  
+🌍 Previously a Software Developer at DEFRA  
 
 I enjoy building backend systems, working with data, and designing scalable applications.
 
